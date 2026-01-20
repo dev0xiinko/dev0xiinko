@@ -1,13 +1,5 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=%E2%9A%A1+DEV0XIINKO;Full+Stack+%26+Blockchain+Developer">
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=0969DA&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=%E2%9A%A1+DEV0XIINKO;Full+Stack+%26+Blockchain+Developer">
-  <img alt="Header" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=%E2%9A%A1+DEV0XIINKO;Full+Stack+%26+Blockchain+Developer">
-</picture>
-
-<br/>
-
 ```rust
 impl Developer for Dev0xiinko {
     fn build(&self) -> Result<Innovation, Error> {
