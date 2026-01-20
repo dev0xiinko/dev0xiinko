@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:30363d&height=200&section=header&text=&fontSize=0" width="100%"/>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=%E2%9A%A1+DEV0XIINKO;Full+Stack+%26+Blockchain+Developer">
   <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=0969DA&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=%E2%9A%A1+DEV0XIINKO;Full+Stack+%26+Blockchain+Developer">
