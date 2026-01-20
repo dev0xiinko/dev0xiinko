@@ -1,13 +1,4 @@
 <div align="center">
-
-```rust
-impl Developer for Dev0xiinko {
-    fn build(&self) -> Result<Innovation, Error> {
-        loop { self.learn(); self.code(); self.ship(); }
-    }
-}
-```
-
 [![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dev0xiinko)
 
 </div>
