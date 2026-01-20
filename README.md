@@ -1,9 +1,4 @@
-<div align="center">
-[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dev0xiinko)]
 
-</div>
-
----
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev0xiinko&layout=donut-vertical&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=3fb950" width="280"/>
 
