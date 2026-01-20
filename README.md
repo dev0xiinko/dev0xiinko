@@ -1,33 +1,24 @@
 <div align="center">
 
-<!-- Animated Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:30363d&height=200&section=header&text=&fontSize=0" width="100%"/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=%E2%9A%A1+IINKO;Building+the+decentralized+future">
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=0969DA&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=%E2%9A%A1+IINKO;Building+the+decentralized+future">
-  <img alt="Header" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=%E2%9A%A1+IINKO;Building+the+decentralized+future">
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=%E2%9A%A1+DEV0XIINKO;Full+Stack+%26+Blockchain+Developer">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=0969DA&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=%E2%9A%A1+DEV0XIINKO;Full+Stack+%26+Blockchain+Developer">
+  <img alt="Header" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=%E2%9A%A1+DEV0XIINKO;Full+Stack+%26+Blockchain+Developer">
 </picture>
 
 <br/>
 
 ```rust
-impl Developer for Iinko {
+impl Developer for Dev0xiinko {
     fn build(&self) -> Result<Innovation, Error> {
-        loop {
-            self.learn();
-            self.code();
-            self.ship();
-        }
+        loop { self.learn(); self.code(); self.ship(); }
     }
 }
 ```
 
-<br/>
-
-<!-- Social Links -->
 [![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dev0xiinko)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](#)
 
 </div>
 
@@ -38,17 +29,12 @@ impl Developer for Iinko {
 ## `> whoami`
 
 ```yaml
-name: "dev0xiinko"
-role: "Full Stack & Blockchain Developer"
-location: "Earth.timezone()"
+name: dev0xiinko
+role: Full Stack & Blockchain Developer
 currently:
   - crafting smart contracts
   - building web3 dApps
   - shipping production code
-interests:
-  - decentralized systems
-  - systems programming
-  - open source
 ```
 
 <br clear="right"/>
@@ -123,78 +109,28 @@ interests:
 
 </div>
 
-<!-- Activity Graph -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dev0xiinko&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff7b72&area=true&area_color=238636" width="95%"/>
 </div>
 
 ---
 
-## `> git log --oneline -5`
-
-<!--START_SECTION:activity-->
-<!-- GitHub Activity will auto-populate here if you use the GitHub Activity README action -->
-<!--END_SECTION:activity-->
-
 <div align="center">
-
-### 🐍 Watch my contributions get eaten
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dev0xiinko/dev0xiinko/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dev0xiinko/dev0xiinko/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/dev0xiinko/dev0xiinko/output/github-contribution-grid-snake-dark.svg">
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/dev0xiinko/dev0xiinko/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
 </div>
 
 ---
 
-## `> tree projects/`
-
 <div align="center">
 
-| 🚀 Project | 📝 Description | 🛠️ Tech |
-|:-----------|:---------------|:--------|
-| 🔗 **DeFi Protocol** | Decentralized finance smart contracts | `Solidity` `Hardhat` `React` |
-| ⚓ **Solana dApp** | High-performance blockchain application | `Rust` `Anchor` `Next.js` |
-| 🕸️ **Web3 Platform** | Full-stack Web3 integration | `TypeScript` `NestJS` `Ethers.js` |
-| 🎮 **GameFi** | Blockchain gaming mechanics | `Solidity` `ink!` `React` |
+<img src="https://komarev.com/ghpvc/?username=dev0xiinko&style=for-the-badge&color=0d1117&labelColor=161b22&label=VIEWS"/>
 
 </div>
 
----
-
-<div align="center">
-
-### 💭 Random Dev Quote
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=dev0xiinko&style=for-the-badge&color=0d1117&labelColor=161b22&label=PROFILE+VIEWS"/>
-
-<br/><br/>
-
-```
-╔══════════════════════════════════════════════════════════════════╗
-║                                                                  ║
-║   "The best way to predict the future is to build it."           ║
-║                                                                  ║
-║                                              — Alan Kay          ║
-╚══════════════════════════════════════════════════════════════════╝
-```
-
-<br/>
-
-**If you like my work, consider giving a ⭐**
-
-</div>
-
-<!-- Footer Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:30363d&height=120&section=footer" width="100%"/>
