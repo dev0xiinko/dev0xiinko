@@ -1,3 +1,8 @@
+# Hey, I'm Adrian Alquizar 👋
+
+Co-founder at **Stakk Finance** — building AI-powered DeFi tools on Solana. Blockchain enthusiast turning ideas into on-chain reality.
+
+---
 
 ## Languages
 
