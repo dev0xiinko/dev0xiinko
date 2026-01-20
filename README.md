@@ -1,10 +1,3 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:30363d&height=180&section=header&text=dev0xiinko&fontSize=50&fontColor=58a6ff&fontAlignY=35&desc=Full%20Stack%20%26%20Blockchain%20Developer&descSize=18&descAlignY=55&descColor=8b949e" width="100%"/>
-
-</div>
-
----
 
 ## Languages
 
