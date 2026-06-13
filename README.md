@@ -55,20 +55,3 @@
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ---
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=dev0xiinko&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=3fb950&include_all_commits=true&count_private=true" height="170"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dev0xiinko&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=ff7b72&currStreakLabel=c9d1d9" height="170"/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dev0xiinko/dev0xiinko/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dev0xiinko/dev0xiinko/output/github-contribution-grid-snake.svg">
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/dev0xiinko/dev0xiinko/output/github-contribution-grid-snake-dark.svg">
-</picture>
-
-<img src="https://komarev.com/ghpvc/?username=dev0xiinko&style=for-the-badge&color=0d1117&labelColor=161b22&label=VIEWS"/>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:30363d&height=120&section=footer" width="100%"/>
